@@ -1,1 +1,1 @@
-New version here: loadstring(game:HttpGet("https://raw.githubusercontent.com/easybrainrotsab/script/refs/heads/main/easybrainrotsab%20v6.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/easybrainrotsab/script/refs/heads/main/easybrainrotsab%20v6.txt"))()
